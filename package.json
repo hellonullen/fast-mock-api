@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start": "node ./bin/cli.js serve ./examples/db.sample.json",
-    "test": "node --test test/**/*.test.js"
+    "test": "node --test"
   },
   "keywords": [
     "mock",
