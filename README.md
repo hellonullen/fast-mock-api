@@ -6,6 +6,7 @@ A zero-dependency, lightning-fast Node.js CLI to spin up instant RESTful mock AP
 [![Node.js Version](https://img.shields.io/badge/Node.js-%3E%3D18.0.0-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Zero Dependencies](https://img.shields.io/badge/Dependencies-0-brightgreen.svg)](https://github.com/hellonullen/fast-mock-api)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Author Website](https://img.shields.io/badge/Author-kadircanuredi.com.tr-0ea5e9?style=flat-square&logo=google-chrome&logoColor=white)](https://kadircanuredi.com.tr)
 
 ---
 
@@ -111,6 +112,15 @@ server.listen(5000, () => {
   console.log("Mock server running on port 5000");
 });
 ```
+
+---
+
+## 👨‍💻 Author & Engineering
+
+Developed by **Kadircan Üredi** (NulleN) — Full-Stack Developer & Systems Engineer.
+- 🌐 **Official Website:** [https://kadircanuredi.com.tr](https://kadircanuredi.com.tr)
+- 🐙 **GitHub:** [@hellonullen](https://github.com/hellonullen)
+- 📧 **Contact:** [contact@kadircanuredi.com.tr](mailto:contact@kadircanuredi.com.tr)
 
 ---
 
