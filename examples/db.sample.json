@@ -1,0 +1,21 @@
+{
+  "users": [
+    { "id": 1, "name": "Alice Johnson", "email": "alice@example.com", "role": "admin", "active": true },
+    { "id": 2, "name": "Bob Smith", "email": "bob@example.com", "role": "user", "active": true },
+    { "id": 3, "name": "Charlie Brown", "email": "charlie@example.com", "role": "user", "active": false },
+    { "id": 4, "name": "Diana Prince", "email": "diana@example.com", "role": "manager", "active": true },
+    { "id": 5, "name": "Evan Wright", "email": "evan@example.com", "role": "user", "active": true }
+  ],
+  "products": [
+    { "id": 1, "title": "Mechanical Keyboard", "price": 129.99, "category": "electronics", "stock": 42 },
+    { "id": 2, "title": "Ergonomic Mouse", "price": 79.50, "category": "electronics", "stock": 18 },
+    { "id": 3, "title": "Desk Mat (XL)", "price": 29.00, "category": "accessories", "stock": 105 },
+    { "id": 4, "title": "USB-C Hub", "price": 49.99, "category": "electronics", "stock": 64 },
+    { "id": 5, "title": "Noise Cancelling Headphones", "price": 249.00, "category": "audio", "stock": 12 }
+  ],
+  "posts": [
+    { "id": 1, "userId": 1, "title": "Getting Started with FastMockApi", "likes": 48 },
+    { "id": 2, "userId": 2, "title": "Why Zero-Dependency Node.js Matters", "likes": 95 },
+    { "id": 3, "userId": 1, "title": "Frontend Prototyping in 2026", "likes": 62 }
+  ]
+}

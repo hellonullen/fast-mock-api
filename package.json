@@ -1,0 +1,35 @@
+{
+  "name": "fast-mock-api",
+  "version": "1.0.0",
+  "description": "Zero-dependency, lightning-fast Node.js CLI to spin up instant RESTful mock APIs with CRUD routes, filtering, pagination, and latency simulation.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "bin": {
+    "fast-mock-api": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node ./bin/cli.js serve ./examples/db.sample.json",
+    "test": "node --test test/**/*.test.js"
+  },
+  "keywords": [
+    "mock",
+    "api",
+    "rest",
+    "mock-server",
+    "zero-dependency",
+    "json-server",
+    "crud",
+    "fake-api",
+    "testing",
+    "cli"
+  ],
+  "author": "hellonullen <hellonullen@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hellonullen/fast-mock-api.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
